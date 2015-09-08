@@ -1,0 +1,12 @@
+# Site settings
+title: John Pettigrew's Blog
+email: john.pettigrew404@gmail.com
+description: >
+  John Pettigrew's blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.john-pettigrew.com" # the base hostname & protocol for your site
+twitter_username: talljohnnyp
+github_username:  john-pettigrew
+
+# Build settings
+markdown: kramdown
